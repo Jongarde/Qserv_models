@@ -1,6 +1,6 @@
 # Qserv_models
 
-The current respository contains three different approaches of quantum error prediction. In this implementation, we make use of the quantum circuit image embeddings in the [Qserv dataset](https://github.com/Jongarde/Qserv_dataset), which porvides us with the image representations of 35000 different circuits. The presented code gathers the reading, training and evaluation phases for the regression problem that is the quantum error prediction, using the aforementioned dataset.
+The current respository contains three different approaches of quantum error prediction. In this implementation, we make use of the quantum circuit image embeddings in the [Qserv dataset](https://github.com/Jongarde/Qserv_dataset), which porvides us with the image representations of 35,000 different circuits. The presented code gathers the reading, training and evaluation phases for the regression problem that is the quantum error prediction, using the aforementioned dataset.
 
 ## Models: Training phase
 
@@ -11,3 +11,5 @@ As for the followed approaches, we make use of the models of:
 ➥ [DinoV2](https://github.com/facebookresearch/dinov2): Furtherly explained in [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
 
 ## Results: Evaluation phase
+
+TO-DO

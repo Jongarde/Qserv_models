@@ -13,3 +13,10 @@ As for the followed approaches, we make use of the models of:
 ## Results: Evaluation phase
 
 TO-DO
+
+|            Modelo           |   MAE  |  RMSE  |  MAPE  |   R2   |
+|:---------------------------:|:------:|:------:|:------:|:------:|
+| ResNet-50 (No weights)      | 0,0403 | 0,0675 | 1,8369 | 0,8828 |
+| ResNet-50 (Default weights) | 0,0338 | 0,0622 | 1,2043 | 0,9003 |
+| Vit-RGTS                    | 0,0364 | 0,0658 | 1,1132 | 0,8887 |
+| DinoV2                      | 0,0379 | 0,0656 | 1,4440 | 0.8891 |

@@ -6,7 +6,7 @@ The current respository contains three different approaches of quantum error pre
 
 As for the followed approaches, we make use of the models of:
 
-➥ [ResNet](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py): To train the ResNet model (ResNet-50), we modify the last layer (fully connected layer), in order to transform it so that it results in only one output, in accordance to our regression problems.
+➥ [ResNet](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py): To train the ResNet model (ResNet-50), we modify the last layer (fully connected layer), in order to transform it so that it results in only one output, in accordance to our regression problems.  
 ➥ [Vit-RGTS](https://github.com/kyegomez/Vit-RGTS): Furtherly explained in [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588)  
 ➥ [DinoV2](https://github.com/facebookresearch/dinov2): Furtherly explained in [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193)
 

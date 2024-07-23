@@ -14,7 +14,7 @@ As for the followed approaches, we make use models such as:
 
 The results cover multiple metrics to ensure the robustness of the model evaluation. Metrics such as MAE (Mean Absolute Error), RMSE (Root Mean Squared Error), MAPE (Mean Absolute Percentage Error) and R2 were used in order to evaluate the precision of our models, as shown in the following table.
 
-|            Modelo           |   MAE  |  RMSE  |  MAPE  |   R2   |
+|            Model            |   MAE  |  RMSE  |  MAPE  |   R2   |
 |:---------------------------:|:------:|:------:|:------:|:------:|
 | ResNet-50 (No weights)      | 0,0403 | 0,0675 | 1,8369 | 0,8828 |
 | ResNet-50 (Default weights) | 0,0338 | 0,0622 | 1,2043 | 0,9003 |
